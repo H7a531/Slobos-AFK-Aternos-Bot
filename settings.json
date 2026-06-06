@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "zlag_lmo2sis.aternos.me",
-    "port": : 42343,
+    "port": :42343,
     "version": "",
     "try-creative": false
   },
